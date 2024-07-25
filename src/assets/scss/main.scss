@@ -1,0 +1,18 @@
+// Ana stil dosyası
+
+// Değişkenler
+$primary-color: #4CAF50;
+$secondary-color: #2196F3;
+$text-color: #333;
+
+// Genel stiller
+body {
+  font-family: Arial, sans-serif;
+  color: $text-color;
+  margin: 0;
+  padding: 0;
+}
+
+// Bileşenlere özel stil dosyalarını içe aktar
+@import 'components/invoice-list';
+@import 'components/invoice-form';
