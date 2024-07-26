@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+## Screenshots
+
+![Screenshot 255](Screenshot_255.png)
+![Screenshot 254](Screenshot_254.png)
